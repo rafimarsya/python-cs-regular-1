@@ -94,5 +94,5 @@ def pengaturan_nilai_mahasiswa():
         else:
             print("Pilihan tidak valid. Silakan masukkan angka yang sudah tertera.")
 
-#Jalankan
+#Buat di jalananin menu nya
 pengaturan_nilai_mahasiswa()
